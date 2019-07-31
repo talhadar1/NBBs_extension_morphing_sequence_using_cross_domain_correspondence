@@ -6,7 +6,7 @@ This extention code to the NBB's algorithm was written by [Tal Hadar]  , [Matan 
 
 **NBB's Extension :  morphing sequence between images using cross-domain correspondence: [Project](http://fve.bfa.edu.cn/recap/nbbs/) |  [Paper](https://arxiv.org/pdf/1805.04140.pdf)**
 
-<img src=".first_page_sample.png" width="800" />
+<img src="first_page_sample.png" width="800" />
 
 
 The original Neural Best-Buddies: Sparse Cross-Domain Correspondence code written by:
