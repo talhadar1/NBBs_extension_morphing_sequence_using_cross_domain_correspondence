@@ -10,7 +10,7 @@ This extention code to the NBB's algorithm was written by Tal Hadar , Matan Rich
 **NBB's Extension :  morphing sequence between images using cross-domain correspondence: [Paper](https://github.com/talhadar1/NBBs_extension_morphing_sequence_using_cross_domain_correspondence/blob/master/NBB_s_Morphing___using_a_cross_domain_correspondence_to_morph__between_images.pdf)**
 
 
-<img src="./images/first_page_sample.png" width="800" />
+<img src="first_page_sample.png" width="800" />
 
 
 The original Neural Best-Buddies: Sparse Cross-Domain Correspondence code written by:
