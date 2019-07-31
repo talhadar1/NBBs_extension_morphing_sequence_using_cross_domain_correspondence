@@ -1,4 +1,4 @@
-# Neural Best-Buddies Extension :  morphing sequence between images using cross-domain correspondence in PyTorch
+# NBB's Extension :  morphing  between images using cross-domain correspondence
 
 This is our PyTorch implementation for the NBB's Extension :  morphing sequence between images using cross-domain correspondence.
 
