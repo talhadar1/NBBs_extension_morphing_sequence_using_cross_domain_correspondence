@@ -4,7 +4,7 @@ This is our PyTorch implementation for the NBB's Extension :  morphing sequence 
 
 This extention code to the NBB's algorithm was written by [Tal Hadar]  , [Matan Richker], [Jonatan Hadas] 
 
-**NBB's Extension :  morphing sequence between images using cross-domain correspondence: [Project](http://fve.bfa.edu.cn/recap/nbbs/) |  [Paper](https://arxiv.org/pdf/1805.04140.pdf)**
+**NBB's Extension :  morphing sequence between images using cross-domain correspondence: [Project](https://github.com/talhadar1/NBBs_extension_morphing_sequence_using_cross_domain_correspondence) |  [Paper](https://arxiv.org/pdf/1805.04140.pdf)**
 
 <img src="first_page_sample.png" width="800" />
 
