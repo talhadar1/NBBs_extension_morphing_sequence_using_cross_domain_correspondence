@@ -11,7 +11,7 @@ This extention code to the NBB's algorithm was written by Tal Hadar , Matan Rich
 
 
 <img src="first_page_sample.png" width="800" />
-<img src="ezgif.com-video-to-gif.gif" width="800" />
+<img src="ezgif.com-video-to-gif.gif" width="250" />
 
 
 
