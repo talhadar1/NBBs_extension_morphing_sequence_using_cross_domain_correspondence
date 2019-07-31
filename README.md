@@ -1,8 +1,8 @@
-# Neural Best-Buddies in PyTorch
+# morphing sequence cross-domain correspondence in PyTorch
 
 This is our PyTorch implementation for the NBB's Extension :  morphing sequence between images using cross-domain correspondence paper.
 
-This extention code to the NBB's algorithm was written by [Tal Hadar]  , [Matan Richker], [Jonatan Hadas] (https://kfiraberman.github.io/) and supported by [Mingyi Shi](https://rubbly.cn/).
+This extention code to the NBB's algorithm was written by [Tal Hadar]  , [Matan Richker], [Jonatan Hadas] 
 
 **NBB's Extension :  morphing sequence between images using cross-domain correspondence: [Project](http://fve.bfa.edu.cn/recap/nbbs/) |  [Paper](https://arxiv.org/pdf/1805.04140.pdf)**
 
@@ -11,6 +11,7 @@ This extention code to the NBB's algorithm was written by [Tal Hadar]  , [Matan 
 
 The original Neural Best-Buddies: Sparse Cross-Domain Correspondence code written by:
 [Kfir Aberman](https://kfiraberman.github.io/), [Jing Liao](https://liaojing.github.io/html/), [Mingyi Shi](https://rubbly.cn/), [Dani Lischinski](http://danix3d.droppages.com/), [Baoquan Chen](http://www.cs.sdu.edu.cn/~baoquan/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/), SIGGRAPH 2018.
+**[Project](http://fve.bfa.edu.cn/recap/nbbs/) |  [Paper](https://arxiv.org/pdf/1805.04140.pdf)**
 
 ## Prerequisites
 - Linux or macOS
