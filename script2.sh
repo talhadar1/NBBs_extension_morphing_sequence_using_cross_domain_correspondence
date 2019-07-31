@@ -1,0 +1,1 @@
+python3 main.py --sourceImg ./input/Pics_100_aligined/00.png --targetImg ./input/Pics_100_aligined/99.png  --input_dir input --name Pics_100_test --k_final 5 --k_per_level 10 --fast --data_stored --src_index 72  --trg_index 15

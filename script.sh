@@ -1,0 +1,1 @@
+python3 main.py --src_index 1 --trg_index 18  --input_dir input --name Pics_100_aligined --k_final 5 --k_per_level 10 --fast
