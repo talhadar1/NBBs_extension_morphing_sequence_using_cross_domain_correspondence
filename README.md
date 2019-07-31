@@ -37,7 +37,7 @@ The option `--k_final` dictates the final number of returned points. The results
 
 ### Tips
 - you can set the domain manipulation parameter to any disierd number. it will divide the distancess between intra-domain images.
-- If you are running the algorithm on a bunch of pairs, we recommend to stop it at the second layer to reduce runtime (comes at the expense of accuracy), use the option `--fast`.
-- If the images are very similar (e.g, two frames extracted from a video), many corresponding points might be found, resulting in long runtime. In this case we suggest to limit the number of corresponding points per level by setting `--k_per_level 20` (or any other desired number)
+- We recommend running the algorithm with `--fast` flag for stop it at the second layer to reduce runtime (comes at the expense of accuracy).
+- If the images are very similar (e.g, several frames extracted from a video), many corresponding points might be found, resulting in long runtime running the NBB's algorithem and finding the correspondence points. In this case we suggest to limit the number of corresponding points per level by setting `--k_per_level 10` (or any other desired number)
 
 
