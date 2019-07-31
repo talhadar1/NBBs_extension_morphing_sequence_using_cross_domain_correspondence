@@ -4,7 +4,7 @@ This is our PyTorch implementation for the NBB's Extension :  morphing sequence 
 
 It was made as a part of GAN workshop at Tel-Aviv University ,Under the guidance of Prof. Daniel Cohen-Or and Sharon Fogel.
 
-This extention code to the NBB's algorithm was written by [Tal Hadar]  , [Matan Richker], [Jonatan Hadas] (https://kfiraberman.github.io/) and supported by [Mingyi Shi](https://rubbly.cn/).
+This extention code to the NBB's algorithm was written by Tal Hadar , Matan Richker, Jonatan Hadas
 
 
 **NBB's Extension :  morphing sequence between images using cross-domain correspondence: [Paper](https://github.com/talhadar1/NBBs_extension_morphing_sequence_using_cross_domain_correspondence/blob/master/NBB_s_Morphing___using_a_cross_domain_correspondence_to_morph__between_images.pdf)**
