@@ -24,11 +24,16 @@ The original Neural Best-Buddies: Sparse Cross-Domain Correspondence code writte
 - CPU or NVIDIA GPU + CUDA CuDNN
 
 ### Run
-
-- Run the algorithm (demo example)
+- Run the distance calculation algorithm (demo example)
 ```bash
 #!./script.sh
-python3 main.py --datarootA ./images/original_A.png --datarootB ./images/original_B.png --name lion_cat --k_final 10
+python3 main.py --sourceImg ./input/Pics_100_aligined/00.png --targetImg ./input/Pics_100_aligined/99.png  --input_dir input --name Pics_100_test --k_final 5 --k_per_level 10 --fast --src_index 72  --trg_index 15
+```
+
+- Run the distance calculation algorithm (demo example - After the disance calculated)
+```bash
+#!./script.sh
+python3 main.py --sourceImg ./input/Pics_100_aligined/00.png --targetImg ./input/Pics_100_aligined/99.png  --input_dir input --name Pics_100_test --k_final 5 --k_per_level 10 --fast --data_stored --src_index 72  --trg_index 15
 ```
 The option `--k_final` dictates the final number of returned points. The results will be saved at `../results/`. Use `--results_dir {directory_path_to_save_result}` to specify the results directory.
 
